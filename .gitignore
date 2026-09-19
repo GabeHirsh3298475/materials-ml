@@ -1,0 +1,22 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Data and models (can get large; keep small sample files only if needed)
+data/raw/
+*.pkl
+*.joblib
+*.h5
+
+# Secrets (e.g. Materials Project API key)
+.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
