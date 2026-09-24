@@ -11,4 +11,4 @@ conda activate matml
 
 ## Progress
 
-- Week 1: setup
+- Week 1:
